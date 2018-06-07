@@ -1,0 +1,16 @@
+.display-4{
+    color: white;
+    background-color: navy;
+    width:80%;
+    text-align: center;
+    height: 150px;
+    top:0px;
+    margin-top:0px;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;     
+}
+
+.card{
+    
+}
